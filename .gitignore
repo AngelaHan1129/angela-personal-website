@@ -1,0 +1,56 @@
+# dependencies
+node_modules/
+
+# build outputs
+frontend/dist/
+backend/dist/
+dist/
+coverage/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# environment files
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# cache
+.cache/
+.eslintcache
+.parcel-cache/
+.vite/
+
+# temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# test outputs
+playwright-report/
+test-results/
+
+# uploads / generated files
+uploads/
+output/
+
+# local runtime data
+*.pid
+*.seed
+*.pid.lock

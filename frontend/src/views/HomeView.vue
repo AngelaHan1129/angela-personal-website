@@ -36,7 +36,7 @@
     <div class="orbit-scene" ref="orbitRef">
       <div class="core" ref="coreRef">
         <div class="core__inner">
-          <h2>HPX</h2>
+          <h2>Angela</h2>
           <p>Creative Developer</p>
         </div>
       </div>

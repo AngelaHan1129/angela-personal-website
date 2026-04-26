@@ -2,8 +2,8 @@
   <header class="navbar">
     <div class="navbar__inner">
       <router-link to="/" class="navbar__logo">
-        <span class="logo-mark">HPX</span>
-        <span class="logo-text">Han Pei Xuan</span>
+        <span class="logo-mark">Angela</span>
+        <span class="logo-text">Han Pei Hxuan</span>
       </router-link>
 
       <nav class="navbar__nav">
